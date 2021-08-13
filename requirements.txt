@@ -4,8 +4,10 @@ matplotlib
 opencv-python-headless==4.5.1.48
 plotly
 Pillow
+streamlit
 requests
 librosa==0.8.0
+tensorflow-cpu==2.4.1
 # numpy
 # pandas==1.2.4
 # matplotlib==3.3.4
