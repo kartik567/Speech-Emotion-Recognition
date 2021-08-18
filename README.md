@@ -69,10 +69,22 @@ Research has shown that verbal communication remains one of the most employable 
 ![TRAIN LOSS TRAIN ACCURACY](https://user-images.githubusercontent.com/74303124/129661002-e87aa3c0-7db0-44b7-8a58-508446094c1e.png)
 
 
+# Challenges
+
+**Large speech Dataset to handle**
+
+**Annotating an audio recording is challenging. Should we label a single word , sentence or a whole conversation? How many emotions should we define to recognize**
+
+
+**It is not an easy task to convert speech to emotion**
+
+
+**Emotions are subjective, people would interpret it differently. It is hard to define the notion of emotions**
+
+
 # Conclusion 
 
 **Through  this project, we showed how we can leverage Machine learning to obtain the underlying emotion from speech audio data and some insights on the human expression of emotion through voice. This system can be employed in a variety of setups like Call Centre for complaints or marketing, in voice-based virtual assistants or chatbots, in linguistic research, etc.** 
-
 
 
 
