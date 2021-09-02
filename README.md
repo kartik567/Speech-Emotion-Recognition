@@ -2,11 +2,9 @@
 
 # Introduction 
 
-**In today’s digital era, speech signals have become a mode of communication between humans and machines which is possible by various technological advancements. Speech recognition techniques with methodologies signal processing techniques made leads to Speech-to text (STT) technology which is used mobile phones as a mode of communication.**
+**In Today’s era the speech has more important because using speech we detect what the feeling of person in various communication field the speech has more important, So What is speech, Speech is nothing but, humans express the feeling and thoughts using coherently sounds, speech emotion recognition easily understand the emotion, Speech is the foremost common way of communicating ourselves as people.** 
 
-**Speech Recognition is the fastest growing research topic in which attempts to recognize speech signals. This leads to Speech Emotion Recognition (SER) growing research topic in which lots of advancements can lead to advancements in various fields like automatic translation systems, machine to human interaction, used in synthesizing speech from the text so on**
-
-**There are many voice products has been developed like Amazon Alex, Google Home, Apple Home Pod which functions mainly on voice-based commands. It is evident that Voice will be the better medium for communicating to the machines**
+**It is as it were common at that point to expand this communication medium to computer applications. We characterize speech feeling acknowledgment (SER) frameworks as a collection of techniques that prepare and classify speech signals to identify the inserted feelings.**
 
 
 
