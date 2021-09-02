@@ -84,7 +84,7 @@ Research has shown that verbal communication remains one of the most employable 
 
 # Conclusion 
 
-**Through  this project, we showed how we can leverage Machine learning to obtain the underlying emotion from speech audio data and some insights on the human expression of emotion through voice. This system can be employed in a variety of setups like Call Centre for complaints or marketing, in voice-based virtual assistants or chatbots, in linguistic research, etc.** 
+**So after all the things do we conclude the paper in this section first use EDA load the data and get intuition about data after that some techniques are use like Data augmentation, feature extraction and modelIn model we use six type of model starting from Machine learning to deep learning model in machine learning we use decision tree and KNN after that using deep learning model GRU, LSTM, CNN, MLP classifier This speech emotion recognition are use in various field like customer care, marketing etc.** 
 
 
 
