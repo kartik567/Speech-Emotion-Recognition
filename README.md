@@ -6,6 +6,8 @@
 
 **It is as it were common at that point to expand this communication medium to computer applications. We characterize speech feeling acknowledgment (SER) frameworks as a collection of techniques that prepare and classify speech signals to identify the inserted feelings.**
 
+**Speech Feeling Recognition (SER) is the errand of recognizing the passionate angles of discourse independent of the semantic substance. Whereas people can effectively perform this assignment as a common portion of speech communication, the capacity to conduct it consequently utilizing programmable gadgets is still an continuous subject of research.**
+
 
 
 ![image](https://user-images.githubusercontent.com/74303124/129658636-2ee0967b-c136-4a52-9301-783dc6dea2bf.png)
